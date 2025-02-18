@@ -1,12 +1,12 @@
 # Flask_Calculator
-This is a simple Flask web application that calculates the percentage based on user input for different programming languages. The application takes input scores for Python, Java, JavaScript, TypeScript, and Flask, calculates the total percentage, and displays the result.
+This is a simple Flask web application that performs basic arithmetic operations like addition, subtraction, multiplication, and division. The application takes two numbers as input along with an operation and displays the calculated result.
 
 Features
 
-Home Page: A form where users can input their scores.
+Home Page: A form where users can input two numbers and select an operation.
 
-Result Page: Displays the calculated percentage.
+Result Page: Displays the calculated result.
 
 Flask Backend: Handles form submission and calculation logic.
 
-HTML Templates: Uses Jinja2 templating to render pages dynamically.
+HTML Templates: Uses Jinja2 templating to render pages dynamically
